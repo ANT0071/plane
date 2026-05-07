@@ -19,7 +19,7 @@
     "intl-messageformat": "^10.7.11",
     "mobx": "^6.13.5",
     "mobx-react": "^9.1.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.18.1"
   },
   "devDependencies": {
     "@plane/eslint-config": "workspace:*",
